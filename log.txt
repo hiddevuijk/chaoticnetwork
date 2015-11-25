@@ -1,0 +1,2 @@
+initializen connection matrices took: 0.003511
+simulation took: 6e-05
